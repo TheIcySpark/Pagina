@@ -1,0 +1,21 @@
+body{
+    max-width: 500px;
+    margin: 2em auto;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(25,100,100,0.3);
+}
+
+.oculto{
+    display: none;
+}
+
+.noOculto{
+    display: block;
+}
+
+.buttonDemo{
+    text-align: center;
+    padding: 0.5em;
+    margin: 1em auto;
+}
